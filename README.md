@@ -1,7 +1,8 @@
 # CodeChef
 
 These are my solutions to the various problems from Codechef Contests implemented in C and Java.  
-Note that some of these still require some work.
+Most of them were in C.
+Note that some of these still(very few) require some work.
 
 I have attempted the problems from these challenges to various degrees of success:  
 * June Long Challenge(2019)
@@ -20,4 +21,4 @@ I have attempted the problems from these challenges to various degrees of succes
 
 Check out [my profile](https://www.codechef.com/users/duddumahesh)
 You are free to implement these in a language of your choice.  
-Or try to improve these solutions and get a better ranking on submittion.
+Or try to improve these solutions and get a better ranking on submission.
