@@ -9,6 +9,7 @@ I have attempted the problems from these challenges to various degrees of succes
 * July Long Challenge(2019)
 * August Long Challenge(2019)
 * September Long Challenge(2019)
+* October Long Challenge(2019)
 * May Lunchtime(2019)
 * July Lunchtime(2019)
 * August Lunchtime(2019)
